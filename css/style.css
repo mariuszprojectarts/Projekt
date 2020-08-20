@@ -43,6 +43,10 @@ h4 {
   margin-bottom: 20px;
 }
 
+.fab {
+  line-height: 30px;
+}
+
 /* Splash */
 .splash {
   background-image: url("https://images.pexels.com/photos/934062/pexels-photo-934062.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
